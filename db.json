@@ -6,6 +6,29 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "gabriel@kenzie.com",
+      "password": "$2a$10$jLY464jmczap8wM1mPGtLucW2dLgiuRKRbgU4ITsAp7bRveby8K.K",
+      "name": "Gabriel",
+      "age": "22",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "react": "avancado",
+      "id": 1
+    },
+    {
+      "react": "avancado",
+      "useId": 2,
+      "id": 2
+    },
+    {
+      "react": "medio",
+      "userId": 2,
+      "id": 3
     }
   ]
 }
